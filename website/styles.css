@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #272525;
+}
+
+.main {
+  padding: 20px;
+  border-radius: 25px;
+  background: #268eca;
+  position: absolute;
+}
+
+
